@@ -1,0 +1,19 @@
+# [type][module] description 
+[][] 
+
+# Type:
+#   feat:     A new feature
+#   fix:      A bug fix
+#   docs:     Documentation changes
+#   style:    Code style changes
+#   refactor: Code refactoring
+#   perf:     Performance improvements
+#   test:     Adding or updating tests
+#   chore:    Maintenance tasks
+
+# Body (optional):
+#   Explain the details of your changes in a few sentences.
+#
+# Footer (optional):
+#   - Include any relevant issue or task references.
+#   - Use keywords like "Closes," "Fixes," or "Resolves" followed by the issue number.
